@@ -24,9 +24,9 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold">Contact Us</h4>
             <p className="mt-4 text-gray-400">
-              Phone: +91-XXXXXXXXXX<br />
-              Email: info@hitechwatertank.com<br />
-              Address: Your City, India
+              Phone: +91-9323999502<br />
+              Email: hitechwatertankcleaning@gmail.com<br />
+              Address: A-202, Gandharva CHS, Central Park, Nallasopara(East), Mumbai - 401209, Maharashtra, India
             </p>
           </div>
 

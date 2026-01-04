@@ -103,7 +103,7 @@ export default function ContactForm() {
                 className={`w-full px-4 py-3 border rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-900 placeholder-gray-600 ${
                   errors.phone ? 'border-red-500' : 'border-gray-400'
                 } bg-white`}
-                placeholder="9876543210"
+                placeholder="0123456789"
               />
               {errors.phone && <p className="mt-1 text-sm text-red-600">{errors.phone.message}</p>}
             </div>
@@ -236,8 +236,8 @@ export default function ContactForm() {
         <div className="text-center mt-12">
           <p className="text-lg text-gray-800">
             Or call us directly:{' '}
-            <a href="tel:+919876543210" className="text-blue-700 font-bold hover:underline">
-              +91 98765 43210
+            <a href="tel:+919323999502" className="text-blue-700 font-bold hover:underline">
+              +91 93239 99502
             </a>
           </p>
         </div>
